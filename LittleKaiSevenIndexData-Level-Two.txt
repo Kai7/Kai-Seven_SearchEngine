@@ -1,0 +1,2343 @@
+64
+567
+
+abating
+1
+3 1 22 
+
+accepted
+1
+29 1 11 
+
+accident
+1
+7 1 5 
+
+according
+1
+17 1 26 
+
+activity
+1
+22 1 22 
+
+afghan
+1
+26 2 4 26 
+
+again
+2
+14 1 15 
+20 1 10 
+
+agency
+1
+17 1 30 
+
+agrees
+1
+1 1 2 
+
+agricultural
+1
+2 1 4 
+
+aid
+1
+13 1 5 
+
+ailing
+1
+17 1 15 
+
+air
+1
+32 1 15 
+
+al
+1
+29 1 9 
+
+alderson
+1
+28 1 7 
+
+all
+1
+6 1 17 
+
+allergies
+1
+16 1 8 
+
+allergy
+1
+16 2 4 16 
+
+amazing
+1
+4 1 14 
+
+andrew
+1
+25 1 11 
+
+andy
+1
+24 1 17 
+
+angeles
+1
+23 1 4 
+
+anger
+1
+25 1 15 
+
+anglers
+1
+31 1 15 
+
+announced
+1
+20 1 20 
+
+another
+3
+3 1 23 
+18 1 15 
+20 1 16 
+
+apartment
+1
+11 1 14 
+
+apotheker
+1
+8 1 11 
+
+appeal
+1
+1 1 6 
+
+arc
+1
+18 1 6 
+
+arizona
+1
+11 2 1 11 
+
+around
+1
+3 1 18 
+
+asking
+1
+5 1 13 
+
+assad
+1
+29 1 10 
+
+attack
+1
+26 1 16 
+
+attacker
+1
+15 1 15 
+
+authorities
+1
+15 1 8 
+
+b
+2
+5 2 2 5 
+22 1 2 
+
+back
+1
+20 1 15 
+
+bad
+2
+2 1 6 
+16 1 3 
+
+bahrain
+1
+10 1 3 
+
+balance
+1
+9 1 21 
+
+ball
+1
+21 1 18 
+
+bang
+1
+4 1 12 
+
+bashar
+1
+29 1 8 
+
+bathroom
+1
+19 1 12 
+
+battle
+1
+27 1 4 
+
+beat
+2
+14 1 25 
+24 1 16 
+
+become
+1
+22 1 29 
+
+before
+1
+1 1 14 
+
+begins
+1
+1 1 17 
+
+behind
+1
+2 1 9 
+
+belarus
+1
+15 1 1 
+
+benn
+1
+12 1 10 
+
+best
+1
+6 1 15 
+
+big
+1
+14 1 14 
+
+blue
+1
+21 1 1 
+
+body
+1
+3 1 28 
+
+bogdan
+1
+31 2 2 31 
+
+bomb
+1
+15 1 17 
+
+bombing
+1
+15 1 4 
+
+boxer
+1
+23 1 20 
+
+broadcast
+1
+30 1 13 
+
+bullock
+1
+13 1 1 
+
+bureau
+1
+22 1 14 
+
+buy
+1
+31 1 22 
+
+cable
+1
+30 1 14 
+
+came
+1
+14 1 13 
+
+card
+1
+9 2 6 9 
+
+carlo
+1
+24 2 5 24 
+
+carriages
+1
+7 1 21 
+
+carrying
+1
+15 1 16 
+
+cases
+1
+22 1 17 
+
+casts
+1
+22 1 4 
+
+catch
+1
+23 1 18 
+
+catherine
+1
+32 1 3 
+
+celebrities
+1
+6 1 19 
+
+ceo
+1
+8 1 9 
+
+champion
+2
+23 1 10 
+24 1 13 
+
+charge
+1
+9 1 5 
+
+china
+1
+17 2 1 17 
+
+chinese
+1
+17 1 27 
+
+clark
+1
+19 1 8 
+
+cleric
+1
+10 2 7 10 
+
+clinic
+1
+18 1 10 
+
+closed
+1
+7 1 11 
+
+cloud
+2
+8 1 5 
+27 2 5 27 
+
+clues
+1
+25 2 2 25 
+
+clutch
+1
+14 1 20 
+
+code
+1
+5 1 7 
+
+commodities
+1
+2 1 5 
+
+company
+1
+9 2 4 9 
+
+compete
+1
+30 1 12 
+
+complex
+1
+11 1 15 
+
+computing
+2
+8 1 6 
+27 1 15 
+
+corner
+1
+4 1 2 
+
+corporate
+1
+9 1 19 
+
+corpses
+1
+18 1 8 
+
+corruption
+1
+3 2 3 3 
+
+costly
+1
+25 1 16 
+
+costs
+1
+19 1 18 
+
+could
+1
+1 1 10 
+
+country
+2
+17 1 7 
+18 1 16 
+
+court
+3
+1 1 1 
+10 2 4 10 
+11 2 3 11 
+
+coveted
+1
+31 2 5 31 
+
+cracking
+1
+5 1 6 
+
+criminal
+1
+22 1 19 
+
+critic
+1
+4 1 1 
+
+crowd
+1
+23 1 11 
+
+custodian
+1
+11 1 16 
+
+d
+1
+25 1 12 
+
+data
+1
+22 1 12 
+
+days
+1
+26 1 20 
+
+dead
+2
+26 1 7 
+31 1 8 
+
+deal
+2
+1 1 21 
+19 1 14 
+
+debut
+1
+12 1 14 
+
+deciphering
+1
+5 1 16 
+
+decision
+1
+1 1 7 
+
+defending
+1
+24 1 12 
+
+defense
+1
+26 2 5 26 
+
+deflected
+1
+12 1 15 
+
+delaying
+1
+1 1 23 
+
+delivery
+1
+11 1 24 
+
+departure
+1
+25 1 8 
+
+detailed
+1
+8 1 12 
+
+details
+1
+15 1 3 
+
+diapers
+1
+19 2 2 19 
+
+die
+1
+11 1 18 
+
+died
+1
+18 1 20 
+
+dire
+1
+13 1 20 
+
+director
+1
+25 1 10 
+
+disaster
+1
+13 1 10 
+
+disneyland
+1
+7 2 1 7 
+
+dividend
+1
+8 1 3 
+
+do
+1
+27 1 3 
+
+doctor
+1
+20 1 5 
+
+documentary
+1
+6 1 7 
+
+dogfight
+1
+14 1 4 
+
+doldrums
+1
+3 1 14 
+
+dominate
+1
+27 1 13 
+
+douglas
+1
+32 2 2 32 
+
+down
+2
+14 1 22 
+32 1 10 
+
+dr
+1
+20 1 13 
+
+drabek
+1
+21 2 3 21 
+
+due
+1
+26 1 28 
+
+earn
+1
+21 1 19 
+
+earthquake
+1
+13 1 12 
+
+east
+1
+10 1 2 
+
+eight
+1
+10 1 15 
+
+employers
+1
+9 1 2 
+
+encrypted
+1
+5 1 17 
+
+end
+1
+18 1 4 
+
+entertainment
+1
+13 1 17 
+
+er
+1
+20 1 9 
+
+erving
+1
+14 1 11 
+
+escape
+1
+18 1 24 
+
+especially
+1
+16 1 11 
+
+excellence
+1
+31 1 33 
+
+execution
+1
+11 2 5 11 
+
+executive
+1
+25 1 9 
+
+exit
+1
+25 1 4 
+
+expedite
+1
+1 1 3 
+
+expense
+1
+9 1 12 
+
+experts
+1
+16 1 15 
+
+extraordinary
+1
+3 1 24 
+
+f
+3
+1 1 4 
+5 2 1 5 
+22 1 1 
+
+factor
+1
+2 1 8 
+
+fans
+1
+23 1 7 
+
+far
+1
+31 1 26 
+
+farm
+1
+2 1 16 
+
+fell
+1
+7 1 19 
+
+ferriero
+1
+12 1 11 
+
+fiction
+1
+13 1 16 
+
+fifa
+1
+3 2 2 3 
+
+final
+1
+24 2 3 24 
+
+finish
+1
+4 1 17 
+
+first
+1
+21 2 9 21 
+
+five
+1
+7 1 23 
+
+floor
+2
+18 1 9 
+23 1 25 
+
+florida
+1
+14 2 2 14 
+
+fly
+1
+31 1 6 
+
+follow
+1
+9 1 9 
+
+food
+1
+2 1 11 
+
+found
+1
+5 1 19 
+
+four
+2
+18 1 7 
+26 1 19 
+
+fox
+1
+20 2 1 20 
+
+friday
+1
+12 1 24 
+
+fringe
+1
+4 1 4 
+
+gains
+1
+2 1 21 
+
+game
+3
+3 1 26 
+12 1 26 
+21 1 11 
+
+gathered
+1
+23 1 12 
+
+gathering
+1
+22 1 27 
+
+gators
+1
+14 1 24 
+
+gave
+1
+12 1 17 
+
+general
+1
+28 1 4 
+
+generation
+1
+8 1 14 
+
+generosity
+1
+13 1 23 
+
+girl
+1
+11 1 25 
+
+giving
+1
+17 1 20 
+
+glimpse
+1
+23 1 19 
+
+goal
+1
+12 1 16 
+
+goes
+1
+4 1 11 
+
+google
+2
+27 2 1 27 
+30 2 2 30 
+
+governing
+1
+3 1 27 
+
+government
+1
+29 2 2 29 
+
+gym
+1
+23 1 26 
+
+hails
+1
+17 1 2 
+
+hamingson
+1
+25 1 13 
+
+harvest
+1
+2 1 20 
+
+hasty
+1
+25 1 3 
+
+hay
+1
+2 1 15 
+
+heading
+1
+19 1 5 
+
+held
+1
+9 1 16 
+
+help
+1
+5 2 5 5 
+
+here
+1
+23 1 1 
+
+hewlett
+1
+8 1 7 
+
+high
+1
+27 1 10 
+
+higher
+1
+19 1 6 
+
+highest
+1
+11 1 7 
+
+hit
+1
+21 2 17 21 
+
+hitter
+1
+21 1 5 
+
+hitting
+1
+14 1 18 
+
+hold
+1
+11 1 10 
+
+hollywood
+2
+6 2 1 6 
+13 2 3 13 
+
+home
+1
+21 1 30 
+
+horns
+1
+27 1 8 
+
+house
+1
+20 2 3 20 
+
+hp
+1
+8 1 1 
+
+hu
+1
+17 1 9 
+
+hugh
+1
+20 1 11 
+
+i
+2
+5 2 3 5 
+22 1 3 
+
+if
+1
+9 1 7 
+
+il
+1
+17 1 19 
+
+images
+1
+15 1 12 
+
+improving
+1
+17 1 23 
+
+increasing
+1
+19 1 15 
+
+industry
+1
+13 1 18 
+
+injured
+3
+7 1 22 
+15 1 20 
+28 1 12 
+
+innings
+1
+21 1 16 
+
+inquiries
+1
+22 1 11 
+
+inside
+1
+26 1 3 
+
+installations
+1
+26 1 18 
+
+insurgent
+1
+26 2 1 26 
+
+intelligence
+1
+22 1 26 
+
+interview
+1
+32 1 11 
+
+into
+1
+21 1 6 
+
+investing
+1
+2 1 1 
+
+jack
+1
+3 1 7 
+
+jackson
+1
+4 1 9 
+
+japan
+1
+13 2 6 13 
+
+jays
+1
+21 1 2 
+
+jayson
+1
+21 1 26 
+
+jerry
+1
+6 2 2 6 
+
+jintao
+1
+17 1 10 
+
+joins
+1
+13 1 2 
+
+jones
+1
+32 1 5 
+
+jong
+1
+17 1 18 
+
+jose
+2
+12 1 19 
+21 1 24 
+
+joshua
+1
+4 1 8 
+
+journal
+2
+18 1 2 
+30 1 18 
+
+keep
+1
+23 1 8 
+
+kidnapping
+1
+10 1 19 
+
+killed
+3
+5 1 21 
+15 1 18 
+26 1 9 
+
+kim
+1
+17 1 17 
+
+kimberly
+1
+19 1 7 
+
+knows
+2
+6 1 20 
+16 1 2 
+
+korea
+1
+17 1 14 
+
+korean
+1
+17 1 4 
+
+kyle
+1
+21 1 12 
+
+l
+1
+1 1 5 
+
+laurie
+1
+20 1 12 
+
+lax
+1
+22 1 31 
+
+leader
+1
+17 2 5 17 
+
+league
+1
+21 1 22 
+
+leo
+1
+8 1 10 
+
+liable
+1
+9 1 17 
+
+life
+1
+6 1 5 
+
+likely
+1
+26 1 22 
+
+line
+1
+4 1 18 
+
+list
+2
+6 1 18 
+31 1 21 
+
+little
+1
+14 1 9 
+
+lives
+3
+6 1 4 
+17 1 25 
+18 1 3 
+
+locked
+1
+27 1 7 
+
+los
+1
+23 1 3 
+
+lot
+1
+23 1 15 
+
+made
+2
+1 1 11 
+13 1 8 
+
+major
+1
+21 1 21 
+
+make
+1
+2 1 14 
+
+maker
+1
+31 1 3 
+
+mall
+1
+23 2 6 23 
+
+man
+2
+5 1 20 
+14 1 10 
+
+manager
+1
+28 1 5 
+
+manny
+1
+23 1 21 
+
+many
+1
+28 1 11 
+
+masters
+1
+24 2 6 24 
+
+match
+1
+24 1 20 
+
+materials
+1
+19 1 17 
+
+means
+1
+1 1 8 
+
+medical
+1
+28 1 2 
+
+mets
+1
+28 2 1 28 
+
+michael
+1
+32 2 1 32 
+
+microsoft
+1
+27 2 2 27 
+
+middle
+1
+10 1 1 
+
+migrants
+1
+18 1 12 
+
+military
+1
+26 1 25 
+
+ministry
+1
+26 2 6 26 
+
+minutes
+1
+18 1 23 
+
+misurata
+1
+18 1 1 
+
+ml
+1
+21 1 10 
+
+molina
+1
+21 1 25 
+
+moment
+1
+2 1 22 
+
+monday
+2
+7 1 16 
+26 1 14 
+
+monte
+1
+24 2 4 24 
+
+months
+1
+1 1 13 
+
+mountain
+1
+7 1 13 
+
+movies
+1
+13 1 11 
+
+mr
+1
+31 1 9 
+
+much
+1
+31 1 4 
+
+murder
+1
+11 1 20 
+
+murray
+1
+24 1 18 
+
+music
+1
+6 1 10 
+
+nadal
+1
+24 2 1 24 
+
+nearly
+2
+1 1 12 
+15 1 21 
+
+nears
+1
+4 1 16 
+
+net
+1
+22 1 6 
+
+network
+1
+20 1 19 
+
+new
+0
+
+news
+1
+17 1 29 
+
+newspaper
+1
+11 1 23 
+
+next
+1
+8 1 13 
+
+nigeria
+1
+18 1 13 
+
+night
+1
+12 1 25 
+
+nix
+1
+21 1 27 
+
+north
+1
+17 2 3 17 
+
+nose
+1
+16 1 1 
+
+notes
+1
+5 2 9 5 
+
+now
+1
+20 1 8 
+
+officer
+1
+10 1 21 
+
+official
+1
+7 2 6 7 
+
+officials
+1
+15 1 2 
+
+old
+1
+11 1 22 
+
+one
+0
+
+only
+1
+31 1 31 
+
+onto
+1
+7 1 20 
+
+opened
+1
+22 1 15 
+
+oprah
+1
+32 1 12 
+
+or
+1
+22 1 20 
+
+ordinary
+1
+31 1 32 
+
+others
+1
+10 1 16 
+
+outed
+1
+32 1 6 
+
+overhaul
+1
+30 1 4 
+
+overtime
+1
+12 1 9 
+
+pack
+1
+13 1 4 
+
+packard
+1
+8 1 8 
+
+pacquiao
+1
+23 1 22 
+
+paper
+1
+19 1 4 
+
+paris
+1
+7 2 2 7 
+
+park
+1
+7 1 10 
+
+parking
+1
+23 1 14 
+
+past
+1
+12 1 6 
+
+pay
+1
+31 1 25 
+
+people
+5
+7 1 24 
+15 1 19 
+16 1 6 
+17 1 24 
+26 1 10 
+
+piece
+1
+7 1 17 
+
+pitched
+1
+21 1 14 
+
+planning
+1
+30 2 3 30 
+
+plans
+1
+26 1 27 
+
+players
+1
+28 1 13 
+
+playoff
+1
+12 1 13 
+
+plenty
+1
+13 1 9 
+
+plus
+1
+4 1 13 
+
+point
+1
+25 1 14 
+
+points
+1
+14 1 17 
+
+police
+1
+10 1 20 
+
+policy
+1
+9 1 13 
+
+pollen
+1
+16 1 7 
+
+possibly
+1
+2 1 18 
+
+praised
+1
+17 1 12 
+
+prepared
+1
+2 1 19 
+
+president
+2
+17 1 8 
+29 1 7 
+
+prices
+2
+2 1 12 
+19 2 1 19 
+
+priority
+1
+17 1 22 
+
+prison
+1
+10 1 18 
+
+producer
+1
+6 1 9 
+
+profit
+1
+2 1 3 
+
+prominent
+1
+10 1 12 
+
+promoter
+1
+6 1 11 
+
+public
+2
+5 1 14 
+25 1 5 
+
+put
+1
+11 1 9 
+
+questions
+3
+15 1 6 
+22 1 24 
+26 1 24 
+
+race
+1
+4 1 15 
+
+rafael
+1
+24 1 14 
+
+rages
+1
+3 1 5 
+
+raging
+1
+3 1 17 
+
+raise
+2
+15 1 5 
+26 1 23 
+
+raises
+1
+8 1 2 
+
+raising
+2
+19 1 9 
+22 1 23 
+
+rape
+1
+11 1 19 
+
+raw
+1
+19 1 16 
+
+reach
+2
+14 1 6 
+24 1 21 
+
+reaches
+1
+24 1 2 
+
+recalls
+1
+6 1 14 
+
+red
+1
+12 3 2 12 12 
+
+reels
+1
+31 3 7 31 31 
+
+regular
+1
+1 1 15 
+
+relaxed
+1
+22 1 8 
+
+released
+1
+15 1 10 
+
+remains
+1
+3 1 12 
+
+renews
+1
+20 1 2 
+
+report
+2
+28 1 3 
+30 1 1 
+
+reports
+1
+30 1 19 
+
+resignation
+1
+29 1 12 
+
+resigns
+1
+29 1 3 
+
+responded
+1
+13 1 19 
+
+reuters
+1
+7 1 29 
+
+revamp
+1
+30 1 9 
+
+ride
+1
+7 2 4 7 
+
+rockets
+1
+18 1 5 
+
+row
+1
+24 1 9 
+
+rules
+1
+22 2 9 22 
+
+ruling
+1
+1 1 9 
+
+runs
+1
+21 1 31 
+
+said
+0
+
+san
+1
+12 1 18 
+
+sandy
+1
+28 1 6 
+
+sat
+1
+32 1 9 
+
+satur
+1
+24 1 26 
+
+say
+1
+16 1 13 
+
+scenery
+1
+7 1 18 
+
+scheduled
+1
+11 1 12 
+
+scored
+1
+12 1 12 
+
+scoring
+1
+14 1 16 
+
+search
+1
+22 1 18 
+
+season
+4
+1 2 16 1 
+4 1 7 
+16 1 5 
+20 2 4 20 
+
+second
+1
+23 1 24 
+
+security
+2
+10 1 9 
+26 1 17 
+
+see
+1
+20 1 6 
+
+seeks
+1
+5 1 4 
+
+sentenced
+1
+10 1 11 
+
+sentences
+1
+10 1 5 
+
+seriously
+1
+7 1 25 
+
+set
+1
+11 1 17 
+
+seven
+1
+21 1 15 
+
+seventh
+1
+24 1 7 
+
+several
+1
+14 1 19 
+
+sharks
+1
+12 3 1 12 12 
+
+shiite
+1
+10 2 6 10 
+
+shots
+1
+14 1 21 
+
+shouldn
+1
+9 1 15 
+
+show
+3
+4 1 10 
+22 1 13 
+25 1 17 
+
+showdown
+1
+27 1 12 
+
+showed
+1
+15 1 14 
+
+shows
+1
+3 1 20 
+
+shuts
+1
+7 1 3 
+
+sides
+1
+1 1 19 
+
+sign
+1
+3 1 21 
+
+significantly
+1
+30 1 8 
+
+site
+1
+30 1 11 
+
+situation
+1
+13 1 21 
+
+six
+1
+24 1 10 
+
+slated
+1
+32 1 14 
+
+slip
+1
+12 1 5 
+
+so
+1
+31 1 13 
+
+soaring
+1
+2 1 10 
+
+soccer
+1
+3 1 10 
+
+solo
+1
+21 1 29 
+
+some
+1
+25 1 1 
+
+spend
+1
+31 1 18 
+
+stakes
+1
+27 1 11 
+
+stanley
+1
+31 1 1 
+
+start
+1
+26 1 29 
+
+state
+3
+7 1 26 
+17 1 28 
+29 2 4 29 
+
+status
+1
+28 1 9 
+
+stays
+1
+11 1 4 
+
+stocks
+1
+2 1 17 
+
+stories
+1
+6 1 16 
+
+storm
+1
+3 2 4 3 
+
+strategy
+1
+8 1 15 
+
+street
+1
+30 1 17 
+
+stretch
+1
+14 1 23 
+
+strike
+1
+26 1 2 
+
+strip
+1
+23 2 5 23 
+
+struck
+1
+13 1 14 
+
+stuck
+1
+3 1 13 
+
+supreme
+1
+11 1 2 
+
+surveillance
+1
+15 1 11 
+
+sweet
+1
+14 1 7 
+
+syrian
+1
+29 3 1 29 29 
+
+takes
+1
+21 1 4 
+
+television
+2
+29 2 5 29 
+30 1 15 
+
+terror
+1
+22 1 10 
+
+terrorist
+1
+22 1 21 
+
+th
+1
+21 1 7 
+
+than
+1
+31 1 27 
+
+theater
+1
+25 1 6 
+
+them
+1
+31 1 23 
+
+theme
+1
+7 1 9 
+
+then
+1
+31 1 24 
+
+there
+1
+13 1 22 
+
+they
+3
+15 1 13 
+18 2 19 18 
+31 1 28 
+
+third
+2
+4 1 6 
+26 1 15 
+
+this
+2
+16 1 9 
+26 1 30 
+
+though
+1
+3 1 6 
+
+thousands
+1
+22 1 16 
+
+threatened
+1
+3 1 9 
+
+thrilling
+1
+24 1 19 
+
+thunder
+1
+7 1 12 
+
+thursday
+1
+15 1 9 
+
+time
+2
+1 1 18 
+24 1 11 
+
+tiny
+1
+23 1 13 
+
+tissue
+1
+19 1 13 
+
+today
+1
+20 1 21 
+
+toilet
+1
+19 1 3 
+
+told
+1
+7 1 28 
+
+too
+2
+15 1 7 
+22 1 30 
+
+top
+1
+17 1 21 
+
+toronto
+1
+21 1 32 
+
+tough
+1
+16 1 12 
+
+tours
+1
+17 1 6 
+
+touts
+1
+8 1 4 
+
+train
+1
+7 1 14 
+
+transfers
+1
+25 1 18 
+
+transition
+1
+26 1 26 
+
+trapped
+1
+18 1 14 
+
+troubled
+1
+9 1 1 
+
+tsunami
+2
+3 2 1 3 
+13 1 13 
+
+tuesday
+2
+29 1 14 
+32 1 16 
+
+two
+0
+
+ucla
+1
+14 1 5 
+
+under
+1
+22 1 7 
+
+updated
+1
+28 1 8 
+
+victim
+1
+5 1 8 
+
+victory
+1
+12 1 21 
+
+video
+1
+30 1 10 
+
+vigil
+1
+23 1 9 
+
+violence
+1
+26 1 21 
+
+waiting
+1
+31 1 20 
+
+walker
+1
+14 2 1 14 
+
+wall
+1
+30 1 16 
+
+war
+1
+18 1 17 
+
+warner
+1
+3 1 8 
+
+way
+1
+6 1 6 
+
+weather
+1
+2 1 7 
+
+wednesday
+1
+11 1 13 
+
+week
+1
+3 1 25 
+
+weekend
+1
+4 1 3 
+
+weintraub
+1
+6 2 3 6 
+
+were
+2
+18 2 11 18 
+31 2 12 31 
+
+when
+1
+18 1 18 
+
+whether
+1
+22 1 25 
+
+wide
+1
+22 1 5 
+
+willing
+1
+31 1 17 
+
+win
+2
+14 1 3 
+21 1 23 
+
+winfrey
+1
+32 1 13 
+
+wings
+1
+12 3 3 12 12 
+
+wins
+1
+21 1 8 
+
+without
+1
+1 1 22 
+
+work
+1
+1 1 20 
+
+working
+1
+23 1 23 
+
+would
+1
+31 1 29 
+
+wraps
+1
+4 1 5 
+
+year
+4
+11 1 21 
+16 1 10 
+24 1 8 
+26 1 31 
+
+years
+2
+10 2 8 10 
+31 1 19 
+
+you
+3
+2 2 2 2 
+9 2 8 9 
+20 1 7 
+
+your
+1
+9 3 3 9 9 
+
+youtube
+1
+30 1 5 
+
+zeta
+1
+32 1 4 
+
+|
+1
+23 1 2 
+
